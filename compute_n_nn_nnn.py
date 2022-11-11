@@ -1,4 +1,4 @@
-from tkinter import N
+
 
 
 n=input("Enter a integer ")
