@@ -1,5 +1,4 @@
-from email.policy import default
-from tkinter import N
+
 
 
 len_1=int(input("enter the length of the first list: "))
